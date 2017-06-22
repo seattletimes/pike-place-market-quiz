@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "technical-pi"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2017/quizzes/pike-place-quiz"
+    }
+  },
+  "title": "How well do you know Pike Place Market?",
+  "description": "Test your knowledge about Seattle's Pike Place Market.",
+  "url": "http://projects.seattletimes.com/2017/quizzes/pike-place-quiz/",
+  "slug": "",
+  "tags": [ "quiz" ],
+  "image": "assets/social.jpg",
+  "sheets": ["19cz6yYMMrTRWKhZz_FeL3DCozav4C6tiUdgSUhYvnCo"],
+  "production": false,
+  "embedded": false
+}
