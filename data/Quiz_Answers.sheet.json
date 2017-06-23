@@ -1,105 +1,105 @@
 [
   {
     "id": 1,
+    "answer": "Rachel and Bertha"
+  },
+  {
+    "id": 1,
+    "answer": "Rachel and Billie",
+    "correct": "Rachel the Piggy Bank arrived at Pike Place Market in 1986. The bronze Rachel, named after a real pig, was created by Georgia Gerber, a sculptor from Whidbey Island. Billie the Piggy Bank, described by the Market as “Rachel’s younger and lesser known cousin,” arrived in 2011. Billie also was created by Georgia Gerber and lived on Western Avenue and was rehomed to a more prominent area in the MarketFront Pavilion. The piggy duo bring in $20,000 donations a year."
+  },
+  {
+    "id": 1,
+    "answer": "Rachel, Phoebe and Monica"
+  },
+  {
+    "id": 1,
+    "answer": "Rachel, Bertha and Wheedle"
+  },
+  {
+    "id": 2,
     "answer": 100
   },
   {
-    "id": 1,
+    "id": 2,
     "answer": 125
   },
   {
-    "id": 1,
+    "id": 2,
     "answer": 150
   },
   {
-    "id": 1,
-    "answer": 200,
-    "correct": "Pike Place Market currently has more than 200 stores with doors. With the expansion, four more commercial businesses -- Old Stove Brewing Co., Little Fish restaurant, Honest Biscuits and indi chocolate -- will be introduced. Fun facts: Of the about 200 stores, 50 sell primarily fresh food and groceries; 60 provide food service and on-premises dining; and 88 sell other merchandise and services."
-  },
-  {
     "id": 2,
-    "answer": "No, better check the bus schedule"
-  },
-  {
-    "id": 2,
-    "answer": "Yes, there are 115 spaces"
-  },
-  {
-    "id": 2,
-    "answer": "Yes, there are 525 spaces",
-    "correct": "For $4 an hour, visitors can park in one of the the 525 existing spaces in the Public Market Parking Garage on Western Avenue. An additional 300 covered spaces, and 33 spaces for bicycles, have been added in the MarketFront Parking Garage,  which connects to the old garage."
-  },
-  {
-    "id": 2,
-    "answer": "There’s only parking for bikes"
+    "answer": "200+",
+    "correct": "Pike Place Market currently has more than 200 stores with doors. With the expansion, four more commercial businesses -- Old Stove Brewing Co., Little Fish restaurant, Honest Biscuits and indi chocolate -- will be introduced. Fun facts: Of the about 200 stores, 50 sell primarily fresh food and groceries; 60 provide food service and on-premises dining; and 88 sell other merchandise and services. "
   },
   {
     "id": 3,
-    "answer": "150 day tables"
-  },
-  {
-    "id": 3,
-    "answer": "180 day tables",
-    "correct": "There are currently 180 tables. As part of the expansion, an additional 47 will be open for farmers and craftspeople in the MarketFront Pavilion. Currently the market hosts 80 to 120 farm and craft vendors a day, pulling from a pool of approximately 85 vendors with farm permits, which allow them to sell food items produced from crops grown on property they actively farm, and approximately 225 craft vendors, who sell products that are self-produced locally."
-  },
-  {
-    "id": 3,
-    "answer": "200 day tables"
-  },
-  {
-    "id": 3,
-    "answer": "225 day tables"
-  },
-  {
-    "id": 4,
     "answer": "The Great Seattle Fire of 1889"
   },
   {
-    "id": 4,
+    "id": 3,
     "answer": "The Flying Fish Fiasco of 1947"
   },
   {
-    "id": 4,
+    "id": 3,
     "answer": "The Pike Plaza Project of 1963",
     "correct": "In a plan the City Council adopted to redevelop the central business district, the Market site would have had high-rise office buildings and apartments. Activists, including Councilmember Wing Luke and architects Victor Steinbrueck and Fred Bassetti, banded together and shifted the movement from urban renewal to historic preservation, saving the Market."
   },
   {
-    "id": 4,
+    "id": 3,
     "answer": "The Gum Wall Goodbye of 2015"
   },
   {
-    "id": 5,
-    "answer": "3,000 sq. ft.",
-    "correct": "Pike Place Market currently has 3,000 square feet of open public space. The expansion adds 30,000 square feet and includes a public plaza and viewing deck of Puget Sound."
+    "id": 4,
+    "answer": "3,000 sq. ft. ",
+    "correct": "Pike Place Market currently has 3,000 square feet of open public space. The expansion adds 30,000 square feet and includes a public plaza and a deck for viewing Puget Sound."
   },
   {
-    "id": 5,
+    "id": 4,
     "answer": "10,000 sq. ft."
   },
   {
-    "id": 5,
+    "id": 4,
     "answer": "50,000 sq. ft."
   },
   {
-    "id": 5,
+    "id": 4,
     "answer": "65,000 sq. ft."
   },
   {
-    "id": 6,
-    "answer": "200 units"
+    "id": 5,
+    "answer": "142 units"
   },
   {
-    "id": 6,
+    "id": 5,
     "answer": "176 units",
-    "correct": "Before the expansion, 176 housing units were available for low-income seniors. An additional 40 studio apartment units will be built in the southern portion of the MarketFront. Thirty-three of the units house low-income people over 55, with seven units designed to accommodate live-work space for low-income senior artists."
+    "correct": "Before the expansion, 176 housing units were available for low-income seniors. An additional 40 studio apartment units were built in the southern portion of the MarketFront. Thirty-three of the units house low-income people over 55, with seven units designed to accommodate live-work space for low-income senior artists."
   },
   {
-    "id": 6,
+    "id": 5,
     "answer": "288 units"
   },
   {
-    "id": 6,
+    "id": 5,
     "answer": "305 units"
+  },
+  {
+    "id": 6,
+    "answer": "150 day tables"
+  },
+  {
+    "id": 6,
+    "answer": "180 day tables",
+    "correct": "There are currently 180 tables. As part of the expansion, an additional 47 will be open for farmers and craftspeople in the MarketFront Pavilion. Currently the market hosts 80 to 120 farm and craft vendors a day, pulling from a pool of approximately 85 vendors with farm permits, which allow them to sell food items produced from crops grown on property they actively farm, and approximately 225 craft vendors, who sell products that are self-produced locally."
+  },
+  {
+    "id": 6,
+    "answer": "200 day tables"
+  },
+  {
+    "id": 6,
+    "answer": "225 day tables"
   },
   {
     "id": 7,
@@ -108,7 +108,7 @@
   {
     "id": 7,
     "answer": "Pike Place Market",
-    "correct": "Pike Place is the road that connects Pike Street and Western Avenue. Their namesake is pioneer carpenter John Pike, who help build Territorial University, which became the University of Washington."
+    "correct": "Pike Place is the road that connects Pike Street and Western Avenue. Their namesake is pioneer carpenter John Pike, who helped build Territorial University, which became the University of Washington."
   },
   {
     "id": 7,
@@ -120,19 +120,19 @@
   },
   {
     "id": 8,
-    "answer": "Rachel and Bertha"
+    "answer": "No, better check the bus schedule"
   },
   {
     "id": 8,
-    "answer": "Rachel and Billie",
-    "correct": "Rachel the Piggy Bank arrived at Pike Place Market in 1986. The bronze Rachel, named after a real pig, was created by Georgia Gerber, a sculptor from Whidbey Island. Billie the Piggy Bank, described by the Market as “Rachel’s younger and lesser known cousin,” arrived in 2011. Billie also was created by Georgia Gerber and lived on Western Avenue and was rehomed to a more prominent area in the MarketFront Pavilion. The piggy duo bring in $20,000 donations a year."
+    "answer": "Yes, there are 115 spaces"
   },
   {
     "id": 8,
-    "answer": "Rachel, Phoebe and Monica"
+    "answer": "Yes, there are 525 spaces ",
+    "correct": "For $4 an hour, visitors can park in one of the 525 existing spaces in the Public Market Parking Garage on Western Avenue. An additional 300 covered spaces, and 33 spaces for bicycles, have been added in the MarketFront Parking Garage,  which connects to the old garage."
   },
   {
     "id": 8,
-    "answer": "Rachel, Bertha and Wheedle"
+    "answer": "There’s only parking for bikes"
   }
 ]

@@ -4,20 +4,20 @@
     "max": 3,
     "title": "You must be from out of town",
     "description": "Here’s a little study guide on the Market to help you familiarize yourself with our local treasure.",
-    "image": "test.jpg"
+    "image": "pike-place-numbers.jpg"
   },
   {
     "min": 3,
     "max": 5,
     "title": "You’ve been to the Market a few times",
     "description": "Here’s a little data guide on the Market to help you become a Market whiz!",
-    "image": "test.jpg"
+    "image": "pike-place-numbers.jpg"
   },
   {
     "min": 6,
     "max": 8,
     "title": "Hey, there Market regular!",
     "description": "Stellar job on knowing your Market data. Here’s a graphic showing everything you already know. Feel free to brag about this to your friends.",
-    "image": "test.jpg"
+    "image": "pike-place-numbers.jpg"
   }
 ]

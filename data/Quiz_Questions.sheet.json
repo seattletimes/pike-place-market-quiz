@@ -1,32 +1,33 @@
 [
   {
     "id": 1,
+    "question": "Oink! Who are the Pike Place piggies?",
+    "image": "pig.jpg"
+  },
+  {
+    "id": 2,
     "question": "How many commercial stores with doors does Pike Place Market house?",
     "image": "sign.jpg"
   },
   {
-    "id": 2,
-    "question": "Wait, there’s parking at Pike Place Market?",
-    "image": "car.jpg"
-  },
-  {
     "id": 3,
-    "question": "How many farm and craft day tables are there to peruse?",
-    "image": "broc.jpg"
+    "question": "What was the biggest threat to the Market?",
+    "image": "wrecking.jpg"
   },
   {
     "id": 4,
-    "question": "What was the biggest threat to the Market?"
-  },
-  {
-    "id": 5,
-    "question": "Pike Place Market has how much open public space to frolic in? (This does not include streets.)",
+    "question": "Pike Place Market has how much open public space to frolic in? (Not including streets.)",
     "image": "tape.jpg"
   },
   {
-    "id": 6,
+    "id": 5,
     "question": "Pike Place Market is also a home to seniors. How many low-income housing units for people over 55 does it hold?",
     "image": "apt.jpg"
+  },
+  {
+    "id": 6,
+    "question": "How many farm and craft day tables are there to peruse?",
+    "image": "broc.jpg"
   },
   {
     "id": 7,
@@ -35,7 +36,7 @@
   },
   {
     "id": 8,
-    "question": "Oink! Who are the Pike Place piggies?",
-    "image": "pig.jpg"
+    "question": "Wait, there’s parking at Pike Place Market?",
+    "image": "car.jpg"
   }
 ]

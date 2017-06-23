@@ -1,30 +1,30 @@
 [
   {
     "order": 1,
-    "category": "Category 1",
-    "title": "Title 1",
-    "link": "http://projects.seattletimes.com/2015/seahawks-personality-quiz/",
-    "image": "test.jpg"
+    "category": "360-degree views",
+    "title": "\nCheck out the Pike Place Market’s $74M addition, the new MarketFront",
+    "link": "http://www.seattletimes.com/seattle-news/pike-place-market-74-million-addition-marketfront-360-video/",
+    "image": "quad1.jpg"
   },
   {
     "order": 2,
-    "category": "Category 2",
-    "title": "Title 2",
-    "link": "http://www.seattletimes.com/photo-video/art-of-movement-competes-in-breakdancing-battle/",
-    "image": "test.jpg"
+    "category": "Now & Then",
+    "title": "Some things never change at Pike Place Market",
+    "link": "http://www.seattletimes.com/pacific-nw-magazine/some-things-never-change-at-pike-place-market/",
+    "image": "quad2.jpg"
   },
   {
     "order": 3,
-    "category": "Category 3",
-    "title": "Title 3",
-    "link": "http://projects.seattletimes.com/2015/seattle-architecture-quiz/",
-    "image": "test.jpg"
+    "category": "Summer guide",
+    "title": "Your guide to the Seattle area’s summer farmers markets",
+    "link": "http://www.seattletimes.com/life/travel/your-guide-to-the-seattle-areas-summer-farmers-markets/",
+    "image": "quad3.jpg"
   },
   {
     "order": 4,
-    "category": "Category 4",
-    "title": "Title 4",
-    "link": "http://www.seattletimes.com/seattle-news/data/does-everyone-in-seattle-drive-a-subaru/",
-    "image": "test.jpg"
+    "category": "First & Pike News",
+    "title": "Print media are alive and well at Pike Place newsstand",
+    "link": "http://www.seattletimes.com/seattle-news/print-media-are-alive-and-well-at-pike-place-newsstand/",
+    "image": "quad4.jpg"
   }
 ]
