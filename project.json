@@ -10,12 +10,12 @@
     }
   },
   "title": "How well do you know Pike Place Market?",
-  "description": "Test your knowledge of Seattle’s Pike Place Market with this quiz",
-  "url": "http://projects.seattletimes.com/2017/quizzes/pike-place-quiz/",
+  "description": "Test your knowledge of Seattle’s Pike Place Market with this quiz.",
+  "url": "http://projects.seattletimes.com/2017/quizzes/pike-place-market-quiz/",
   "slug": "",
   "tags": [ "quiz" ],
   "image": "assets/social.jpg",
   "sheets": ["19cz6yYMMrTRWKhZz_FeL3DCozav4C6tiUdgSUhYvnCo"],
-  "production": false,
+  "production": true,
   "embedded": false
 }
